@@ -1,6 +1,7 @@
 {
   "name": "@nospoon/webxr-components",
   "version": "0.1.0",
+  "private": false,
   "types": "build/mjs/main.d.ts",
   "module": "build/mjs/main.js",
   "main": "build/cjs/main.js",
